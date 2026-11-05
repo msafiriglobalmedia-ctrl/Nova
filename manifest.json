@@ -1,0 +1,19 @@
+{
+  "name": "NOVA Social",
+  "short_name": "NOVA",
+  "description": "A place to connect, learn and create.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070b19",
+  "theme_color": "#070b19",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
